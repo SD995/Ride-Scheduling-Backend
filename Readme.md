@@ -436,17 +436,6 @@ RSA/
 - Update documentation as needed
 - Ensure all tests pass before submitting PR
 
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support and questions:
-
-- **Email**: support@corporate-rides.com
-- **Documentation**: Available at `/api-docs` endpoint
-- **Issues**: Create an issue in the GitHub repository
 
 ## 🚀 Deployment
 
