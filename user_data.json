@@ -1,0 +1,8 @@
+{
+  "name": "Alice Smith",
+  "email": "alice.smith.999999@example.com",
+  "password": "password123",
+  "employeeId": "EMP999999",
+  "department": "Marketing",
+  "phoneNumber": "+1987654321"
+} 
